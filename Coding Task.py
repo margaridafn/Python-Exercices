@@ -41,3 +41,16 @@ print(d, r, p, e)
 counter=5
 counter+=3
 print(counter)
+
+#Write a small Python script that:
+
+#Creates a variable called circle_radius and assigns it the value 5
+#Calculates the area using the formula: area = 3.14 * circle_radius * circle_radius
+#Includes appropriate comments to explain each step
+#Prints the result
+
+circle_radius=5
+area=3.14*circle_radius*circle_radius
+#the fist line shows the radius of the circle
+#the second line shows the formula to calculate the area of the circle
+print(area)
